@@ -1,5 +1,5 @@
 # Weather-APP
-Using OpenWeather API, HTML, CSS, and JavaScript I was able to create a weather web App. The Web App has a search bar on the top that asks you to enter a zip for the area you want to get the weather for and displays 5 windows (current weather and the next 4 days forecast)
+Using OpenWeather API, HTML, CSS, and JavaScript I was able to create a weather web App. The Web App has a search bar on the top that asks you to enter a zip for the area you want to get the weather for and displays 6 windows which are current weather and the next 5 forecasts (in increments of 3 hours)
 # Part 1: HTML
 Using HTML I created the structure of the calculator.
 # Part 2: CSS
